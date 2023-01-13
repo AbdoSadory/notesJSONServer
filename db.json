@@ -1,0 +1,19 @@
+{
+  "notes": [
+    {
+      "title": "school",
+      "body": "doing my homework",
+      "id": 1
+    },
+    {
+      "title": "club",
+      "body": "workout",
+      "id": 2
+    },
+    {
+      "title": "test 4",
+      "body": "body 4",
+      "id": 3
+    }
+  ]
+}
